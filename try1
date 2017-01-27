@@ -1,0 +1,13 @@
+
+    /*int age(20);
+    int& reference(age);
+    string nom("YOUCEF"), prenom("Fatima");
+    cout<< " je m'apelle "<< prenom <<" "+ nom <<endl << " j'ai " <<reference<< " ans ";
+    */
+  /* int age(0);
+    cout<< "entrez votre age"<<endl;
+    cin>>age;
+    cin.ignore();
+    cout<< " votre age est " <<age <<"ans"<<endl;
+
+*/
